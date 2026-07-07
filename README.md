@@ -1,73 +1,67 @@
 # Hi, I'm Aamer Javed
 
-I am a Data Scientist and Analytics Engineer with 11+ years of experience across business intelligence, data platforms, operations analytics, and machine learning.
+**Data Scientist | Machine Learning | Forecasting | Operations Analytics | Snowflake | Tableau | Python | SQL**
 
-My work focuses on turning complex operational and enterprise data into useful models, dashboards, forecasts, and decision-support tools. I have hands-on experience with Python, SQL, Snowflake, Tableau, machine learning, forecasting, and cloud data analytics.
+I am a Data Scientist and Analytics Engineer with 11+ years of experience across business intelligence, data platforms, operations analytics, cloud analytics, and machine learning. My focus is practical data science: building models, analytics workflows, dashboards, and decision-support systems that help teams understand performance, forecast risk, and improve business outcomes.
 
-## About Me
+[![GitHub](https://img.shields.io/badge/GitHub-aamer--javed-181717?logo=github)](https://github.com/aamer-javed)
+[![Kaggle](https://img.shields.io/badge/Kaggle-aamerjavedmce-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/aamerjavedmce)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aamer--javed-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamer-javed)
 
-- Data Scientist focused on machine learning, forecasting, and operations analytics
-- Experienced in BI, data engineering, Snowflake, Tableau, and SQL-based analytics
-- Currently building applied machine learning projects and Kaggle competition work
-- Expanding into advanced machine learning, deep learning, neural networks, and agentic AI
-- Interested in business-impact-driven data science, model evaluation, automation, and data storytelling
+## Professional Positioning
 
-## Technical Skills
+I work at the intersection of **data science, BI engineering, operations analytics, and cloud data platforms**. My background gives me a strong advantage in applied machine learning because I understand both the modeling side and the real-world data platform side: pipelines, SQL, dashboards, production constraints, cost, governance, and business adoption.
 
-**Programming & Data:** Python, SQL, pandas, NumPy  
-**Machine Learning:** scikit-learn, regression, classification, feature engineering, model evaluation  
-**Analytics & BI:** Tableau, KPI dashboards, executive reporting, data visualization  
+## Core Strengths
+
+- **Machine Learning:** regression, classification, feature engineering, model evaluation, anomaly detection, forecasting
+- **Analytics Engineering:** SQL modeling, KPI design, data quality checks, semantic/reporting layers
+- **Cloud Data & FinOps:** Snowflake usage analytics, cost forecasting, workload monitoring, optimization opportunities
+- **BI & Data Storytelling:** Tableau dashboards, executive reporting, operational scorecards, decision-support workflows
+- **Advanced Learning:** deep learning, neural networks, Snowflake Cortex, Snowpark, LLM analytics assistants, agentic AI, MLOps
+
+## Featured Portfolio Projects
+
+| Project | Focus Area | Why it matters |
+|---|---|---|
+| [Data Science Portfolio](https://github.com/aamer-javed/data-science-portfolio) | Portfolio hub | Central index for my machine learning, forecasting, analytics, and AI projects. |
+| [Snowflake Cost Forecasting](https://github.com/aamer-javed/snowflake-cost-forecasting) | Forecasting / FinOps | Forecasts cloud data warehouse cost using synthetic Snowflake-style usage data and ML-ready features. |
+| [Operations KPI Anomaly Detection](https://github.com/aamer-javed/operations-kpi-anomaly-detection) | Anomaly Detection | Detects abnormal operational KPI patterns across sites, dates, throughput, downtime, and error rates. |
+| [House Price Prediction ML](https://github.com/aamer-javed/house-price-prediction-ml) | Regression | End-to-end regression project focused on feature engineering, missing-value treatment, and model comparison. |
+| [Customer Churn Prediction](https://github.com/aamer-javed/customer-churn-prediction) | Classification | Predicts churn risk and translates model output into retention-focused business actions. |
+
+## Technical Stack
+
+**Languages:** Python, SQL  
+**Python DS Stack:** pandas, NumPy, scikit-learn, matplotlib, Jupyter  
 **Data Platforms:** Snowflake, PostgreSQL, Azure, cloud data workflows  
-**Methods:** EDA, forecasting, clustering, anomaly detection, optimization analysis  
+**BI & Visualization:** Tableau, KPI dashboards, executive reporting  
+**ML Methods:** EDA, feature engineering, regression, classification, forecasting, clustering, anomaly detection  
+**Advanced Direction:** Deep learning, neural networks, Snowpark, Snowflake Cortex, agentic AI, LLM-powered analytics, MLOps
 
-## Advanced Learning Areas
+## Current Build Roadmap
 
-I am currently expanding my skills in:
+I am currently building a focused data science portfolio around projects that connect modeling with business value:
 
-- Deep Learning and Neural Networks
-- Advanced Machine Learning
-- Agentic AI and AI-powered automation
-- Snowflake Cortex, Snowpark, and AI/ML workflows in Snowflake
-- LLM-based analytics assistants and data agents
-- MLOps, model monitoring, and production-ready ML workflows
+1. **Forecasting and FinOps:** cloud data cost prediction and optimization opportunities
+2. **Operations Analytics:** KPI anomaly detection and performance monitoring
+3. **Supervised ML:** regression and classification projects with business interpretation
+4. **Advanced ML:** neural networks, deep learning fundamentals, and agentic AI workflows
+5. **Production Readiness:** clean repos, reproducible code, documented assumptions, and model evaluation standards
 
-## Portfolio Focus
+## How I Approach Data Science
 
-### Machine Learning Projects
-End-to-end projects covering data cleaning, exploratory analysis, feature engineering, model training, evaluation, and business interpretation.
+I believe strong data science is not only about model accuracy. A useful project should explain:
 
-### Deep Learning & Advanced ML
-Upcoming projects focused on neural networks, deep learning fundamentals, advanced model architectures, and applied AI use cases.
-
-### Agentic AI for Data Platforms
-Exploring how AI agents can support data analysis, SQL generation, Snowflake workflows, BI automation, cost monitoring, and operational decision support.
-
-### Forecasting & Cost Optimization
-Projects focused on usage forecasting, trend analysis, workload behavior, and cloud data cost optimization.
-
-### Operations Analytics
-Analytics projects involving operational KPIs, throughput, performance monitoring, bottleneck analysis, and decision-support dashboards.
-
-### Business Intelligence & Data Storytelling
-Dashboard and reporting projects using SQL, Tableau, and structured analytics workflows.
-
-## Current Learning & Project Work
-
-I am currently strengthening my data science portfolio through:
-
-- Kaggle competitions
-- Applied machine learning projects
-- Deep learning and neural network fundamentals
-- Forecasting and time series analysis
-- Agentic AI and Snowflake AI/ML capabilities
-- Data science coursework through Boston University
-- Real-world analytics and cloud data platform projects
-
-## Featured Tools
-
-Python | SQL | Snowflake | Tableau | pandas | NumPy | scikit-learn | PostgreSQL | Azure | GitHub | Kaggle | Snowpark | Snowflake Cortex | Deep Learning | Agentic AI
+- What business problem is being solved
+- Why the dataset and features matter
+- What baseline the model must beat
+- Which metric is appropriate for the decision
+- How results should be interpreted by non-technical stakeholders
+- What operational action the model supports
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/aamer-javed
+- GitHub: https://github.com/aamer-javed
 - Kaggle: https://www.kaggle.com/aamerjavedmce
+- LinkedIn: https://www.linkedin.com/in/aamer-javed
